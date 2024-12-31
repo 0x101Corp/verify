@@ -1,9 +1,9 @@
 // Predefined list of valid certificates with additional details
 const certificates = {
     "CERTx1": { name: "Ritik Tyagi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" , mode:"Remote" },
-    "CERTx2": { name: "Nikhil Dabas", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program"   },
-    "CERTx3": { name: "Ritik Tyagi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program"  },
-    "CERTx4": { name: "Ritik Tyagi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program"  }
+    "CERTx2": { name: "Nikhil Dabas", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote"  },
+    "CERTx3": { name: "Robin Kumar", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote" },
+    "CERTx4": { name: "Nakshatra Sirohi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program",mode:"Remote"  }
 };
 
 document.getElementById("verify-button").addEventListener("click", function () {
