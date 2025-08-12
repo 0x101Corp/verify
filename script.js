@@ -3,8 +3,9 @@ const certificates = {
     "CERTx1": { name: "Ritik Tyagi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" , mode:"Remote" },
     "CERTx2": { name: "Nikhil Dabas", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote"  },
     "CERTx3": { name: "Robin Kumar", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote" },
-    "CERTx4": { name: "Nakshatra Sirohi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program",mode:"Remote" ,
-              "CERTx5": { name: "Ronit Gupta", issueDate: "01-August-2025", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote" }}
+    "CERTx4": { name: "Nakshatra Sirohi", issueDate: "01-Jan-2024", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program",mode:"Remote"} ,
+    "CERTx5": { name: "Ronit Gupta", issueDate: "01-August-2025", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote" } ,
+    "CERTx5": { name: "Vridhi Rajeev", issueDate: "01-August-2025", position:"Frontend Intern",domain: "Web Development " , duration: "4 week program" ,mode:"Remote" }
 };
 
 document.getElementById("verify-button").addEventListener("click", function () {
